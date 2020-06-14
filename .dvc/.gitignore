@@ -1,8 +1,9 @@
-/state
-/lock
 /config.local
 /updater
+/lock
 /updater.lock
+/tmp
 /state-journal
 /state-wal
+/state
 /cache
